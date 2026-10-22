@@ -1,0 +1,13 @@
+Look Up v0.1.0 (first build)
+
+A mindfulness app where the real game happens out in the world. The screen is just the scorecard.
+
+What's in it
+- One daily challenge, picked from 18 original real-world challenges (sight, sound, smell, touch, taste, nature, people, body).
+- Tap "I'm going out" and the app locks: a calm screen with a countdown (3 to 15 minutes). It only opens to log once the time is up, so you're rewarded for looking up, not down. You can give up a challenge.
+- Log what you noticed, one line for each thing the challenge asks for.
+- Scoreboard: points (+10 for each thing, +20 for finishing, plus a streak bonus), day streak, best streak, and history.
+- Side Hustle Labs intro splash with the voice tag, gentle tap, unlock and finish sounds, and haptics.
+- Everything stays on the phone. No account and no internet.
+
+Install: Android, arm64. Sideload LookUp-v0.1.0.apk (signed with a debug key).

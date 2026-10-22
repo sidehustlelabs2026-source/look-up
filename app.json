@@ -1,0 +1,3 @@
+{ "expo": { "name": "Look Up", "slug": "lookup", "version": "0.1.0", "orientation": "portrait", "userInterfaceStyle": "dark", "backgroundColor": "#0e1a2e", "icon": "./assets/icon.png",
+  "android": { "package": "com.noah.lookup", "versionCode": 1, "adaptiveIcon": { "foregroundImage": "./assets/adaptive-icon.png", "backgroundColor": "#ff9a55" }, "permissions": ["android.permission.VIBRATE"], "blockedPermissions": ["android.permission.INTERNET","android.permission.CAMERA","android.permission.RECORD_AUDIO","android.permission.SYSTEM_ALERT_WINDOW"] },
+  "plugins": [["expo-splash-screen", { "image": "./assets/splash-icon.png", "imageWidth": 200, "backgroundColor": "#0e1a2e" }], "expo-audio"] } }
